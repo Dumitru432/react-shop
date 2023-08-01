@@ -1,11 +1,9 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+@import url('./components/Header/index.scss');
+@import url('./components/Navigation/index.scss');
+@import url('./components/SearchInput/index.scss');
+@import url('./components/Carousel/index.scss');
+@import url('./components/ProductsGrid/index.scss');
+@import url('./components/Product/index.scss');
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

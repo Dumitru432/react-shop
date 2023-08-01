@@ -1,0 +1,16 @@
+.search {
+    input {
+        border: none;
+        height: 30px;
+    }
+    input[type='text'] {
+        width: 210px;
+        border-radius: 22px 0px 0px 22px;
+    }
+    input[type='submit'] {
+        width: 80px;
+        border-radius: 0px 22px 22px 0px;
+        background-color: #333E48;
+        color: white;
+    }
+}
